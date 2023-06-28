@@ -5,7 +5,7 @@
 // Изменение R
 // Изменение S
 // Изменение W
-// Изменение Z
+// Изменение Y
 int[,] CreateMassive(int x, int y)
 {
   int[,] matrix = new int[x,y];
